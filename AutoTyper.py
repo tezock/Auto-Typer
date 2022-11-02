@@ -35,5 +35,5 @@ def type_message(insert_string):
 
 insert_string = read_image("image.jpg")
 type_message(insert_string)
-
+print("Last updated 11/2/2022")
 #3/15/2022
